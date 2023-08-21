@@ -1,4 +1,4 @@
-# Full Stack MERN- Exercise Tracker App
+# Full Stack MERN - Exercise Tracker App
 
 This repository contains the code for an Exercise Tracker App, which allows users to store, manage, and track exercise data. The app includes a React-based user interface (UI) that communicates with a RESTful API and stores data in a MongoDB database.
 
